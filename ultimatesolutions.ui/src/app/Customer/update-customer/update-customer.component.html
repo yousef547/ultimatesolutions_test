@@ -1,0 +1,95 @@
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-6">
+            <h2>Create Customer</h2>
+        </div>
+        <div class="col-md-6">
+            <a routerLink="/customer" class="btn btn-danger float-end">close</a>
+        </div>
+    </div>
+
+    <form [formGroup]="DetailsForm" (ngSubmit)="submitCustomer()">
+        <div class="row">
+            <div class="col-md-6 my-3">
+                <input value="{{customer?.name}}"
+                    [class.is-invalid]="DetailsForm.controls['name'].invalid&&DetailsForm.controls['name'].touched"
+                    class="form-control form-control-lg" formControlName="name" type="text" placeholder="Name">
+                <div *ngIf="DetailsForm.controls['name'].invalid&&DetailsForm.controls['name'].touched"
+                    class="alert alert-danger">Your description is not valid</div>
+
+            </div>
+            <div class="col-md-6 my-3">
+                <input value="{{customer?.code}}"
+                    [class.is-invalid]="DetailsForm.controls['code'].invalid&&DetailsForm.controls['code'].touched"
+                    class="form-control form-control-lg" formControlName="code" type="text" placeholder="Code">
+                <div *ngIf="DetailsForm.controls['code'].invalid&&DetailsForm.controls['code'].touched"
+                    class="alert alert-danger">Your description is not valid</div>
+
+            </div>
+            <div class="col-md-6 my-3">
+                <input value="{{customer?.mobile}}"
+                    [class.is-invalid]="DetailsForm.controls['mobile'].invalid&&DetailsForm.controls['mobile'].touched"
+                    class="form-control form-control-lg" formControlName="mobile" type="text" placeholder="Mobile">
+                <div *ngIf="DetailsForm.controls['mobile'].invalid&&DetailsForm.controls['mobile'].touched"
+                    class="alert alert-danger">Your description is not valid</div>
+
+            </div>
+            <div class="col-md-6 my-3">
+                <input value="{{customer?.description}}"
+                    [class.is-invalid]="DetailsForm.controls['description'].invalid&&DetailsForm.controls['description'].touched"
+                    class="form-control form-control-lg" formControlName="description" type="text"
+                    placeholder="description">
+                <div *ngIf="DetailsForm.controls['description'].invalid&&DetailsForm.controls['description'].touched"
+                    class="alert alert-danger">Your description is not valid</div>
+
+            </div>
+            <div class="col-md-6">
+                <h4>Customer Details</h4>
+            </div>
+            <!-- <div class="col-md-6">
+                <a class="btn btn-primary float-end" (click)="addDetails()">Add Details</a>
+            </div> -->
+        </div>
+        <div>
+
+            <div *ngIf="customer.customerDetailsVM?.length > 0">
+                <div formArrayName="customerDetailsVM" *ngFor="let item of details.controls;let indexOfelement=index;">
+
+                    <!-- <a class="text-danger float-end" (click)="delatetDetails(indexOfelement)">Delete</a> -->
+                    <div class="row my-3" [formGroupName]="indexOfelement">
+                        <div class="col-md-4 my-3">
+                            <input value="{{customer?.customerDetailsVM[indexOfelement]?.city}}"
+                                class="form-control form-control-lg" type="text" formControlName="city"
+                                placeholder="City">
+
+                        </div>
+                        <div class="col-md-4 my-3">
+                            <input value="{{customer?.customerDetailsVM[indexOfelement]?.zone}}"
+                                class="form-control form-control-lg" type="text" formControlName="zone"
+                                placeholder="Zone">
+                        </div>
+                        <div class="col-md-4 my-3">
+                            <input value="{{customer?.customerDetailsVM[indexOfelement]?.street}}"
+                                class="form-control form-control-lg" type="text" formControlName="street"
+                                placeholder="Street">
+                        </div>
+                        <div class="col-md-6 my-3">
+                            <input value="{{customer?.customerDetailsVM[indexOfelement]?.buliding}}"
+                                class="form-control form-control-lg" type="text" formControlName="buliding"
+                                placeholder="Buliding">
+                        </div>
+                        <div class="col-md-6 my-3">
+                            <input value="{{customer?.customerDetailsVM[indexOfelement]?.floor}}"
+                                class="form-control form-control-lg" type="text" formControlName="floor"
+                                placeholder="Floor">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <button class="btn btn-primary py-3 px-5">Create</button>
+        <!-- [disabled]="DetailsForm.invalid" -->
+    </form>
+
+</div>

@@ -1,0 +1,17 @@
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\bin\Debug\net6.0\ultimatesolutions.DataAccess.deps.json
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\bin\Debug\net6.0\ultimatesolutions.DataAccess.runtimeconfig.json
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\bin\Debug\net6.0\ultimatesolutions.DataAccess.dll
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\bin\Debug\net6.0\ultimatesolutions.DataAccess.pdb
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\bin\Debug\net6.0\ultimatesolutions.Model.dll
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\bin\Debug\net6.0\ultimatesolutions.Model.pdb
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.csproj.AssemblyReference.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.AssemblyInfo.cs
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.csproj.CopyComplete
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.dll
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\refint\ultimatesolutions.DataAccess.dll
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.pdb
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ultimatesolutions.DataAccess.genruntimeconfig.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.DataAccess\obj\Debug\net6.0\ref\ultimatesolutions.DataAccess.dll

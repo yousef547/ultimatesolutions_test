@@ -1,0 +1,14 @@
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\bin\Debug\net6.0\ultimatesolutions.Model.deps.json
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\bin\Debug\net6.0\ultimatesolutions.Model.runtimeconfig.json
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\bin\Debug\net6.0\ultimatesolutions.Model.dll
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\bin\Debug\net6.0\ultimatesolutions.Model.pdb
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.csproj.AssemblyReference.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.AssemblyInfoInputs.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.AssemblyInfo.cs
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.csproj.CoreCompileInputs.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.dll
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\refint\ultimatesolutions.Model.dll
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.pdb
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ultimatesolutions.Model.genruntimeconfig.cache
+C:\Users\AL_hamd\Desktop\ultimatesolutions\ultimatesolutions\ultimatesolutions.Model\obj\Debug\net6.0\ref\ultimatesolutions.Model.dll
